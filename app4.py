@@ -2,7 +2,7 @@ import yfinance as yf
 import streamlit as st
 import pandas as pd
 import numpy as np
-import gradio as gr
+
 
 # Vstup od používateľa
 ticker = input("Zadaj ticker firmy (napr. AAPL, GOOGL, MSFT): ")
